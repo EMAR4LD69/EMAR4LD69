@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">🎨 Designer | 💻 Developer | 🎮 Gamer | 📹 Content Creator</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0F52BA&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new.;Creating+cool+stuff+daily!+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">🎨 Designer | 🎮 Gamer |</h3>
 
 ---
 
@@ -11,8 +7,8 @@
 
 ### 👤 About Me
 
-- 🔭 I’m currently working on **creative web experiences**
-- 🌱 I’m learning **3D design, React & motion graphics**
+- 🔭 I’m currently working on **Accountant In Home Town**
+- 🌱 I’m learning **Sql, React & motion graphics**
 - 🎯 Goal: Build something people love using every day
 - 🎮 Fun fact: I can code and clutch in Valorant at the same time 😄
 
@@ -30,12 +26,6 @@
   <a href="https://discord.com/users/EMARALD6061" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.behance.net/your-behance" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
 </p>
 
 ---
@@ -43,7 +33,7 @@
 ### ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,figma,photoshop,blender,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,photoshop,github" />
 </p>
 
 ---
@@ -60,5 +50,6 @@
 ### 🎵 Vibe With Me
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&width=400" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=EMARALD6061&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify" />
 </p>
+
