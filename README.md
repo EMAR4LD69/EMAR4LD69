@@ -8,7 +8,7 @@
 ### 👤 About Me
 
 - 🔭 I’m currently working on **Accountant In Home Town**
-- 🌱 I’m learning **Sql, React & motion graphics**
+- 🌱 I’m learning **Sql**
 - 🎯 Goal: Build something people love using every day
 - 🎮 Fun fact: I can code and clutch in Valorant at the same time 😄
 
@@ -44,12 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hariharan&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan&theme=radical" width="450"/>
 </p>
-
----
-
-### 🎵 Vibe With Me
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=EMARALD6061&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify" />
-</p>
-
